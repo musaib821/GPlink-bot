@@ -14,15 +14,15 @@
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-            "value": ""
+            "value": "20051682"
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
-            "value": ""
+            "value": "91e1c1eec9a3eb7fd99140c349591e59"
         },
         "API_KEY": {
             "description": "Get API key from https://gplinks.in/member/tools/api",
-            "value": ""
+            "value": "17d69d886ae5c1c04fa1c7fbd42fd7c59c3a77b5"
         }
     },
     "addons": [],
